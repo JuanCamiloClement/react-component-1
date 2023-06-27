@@ -1,0 +1,23 @@
+* {
+    margin: auto;
+    font-size: 7px;
+}
+
+div {
+    width: 280px;
+    text-align: center;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
